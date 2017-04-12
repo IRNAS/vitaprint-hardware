@@ -16,3 +16,20 @@ The calibration protocol requires a set-up, where the piston translation, can be
 4. repeat steps 1-3, until the g-code value coincides with the measured value
 
 For a Nema 11 motor (with a planetary reductor) + an M5 spindle (0.5mm pitch/rotation), the default STEPS/UNIT value is 37914.30.
+
+
+# Thermistor calibration
+Every thermistor analog output values have to be mapped to actual temperature values via an equation. Every thermistor needs to be calibrated as described in this section. 
+
+EQUIPMENT: thermo block/plate (heat source), alcochol thermometer, thermistor, setup for reading analog signal from the thermistor, oil, glass.
+1. pour a small glass of oil (50mL or so)
+2. place the glass on the heat source
+3. fit a thermistor to the alcochol thermometer
+4. sink the thermistor - thermometer setup into the glass with oil
+5. prepare the system to read analog values 
+6. turn on the heat source and record sensor analog output at every 1°C increment
+7. plot data (x - axis: analog output, y-axis: real temperature)
+8. fit the best trendline to the data obtained (MATLAB or EXCEL are good tools for completing this task but there are also others)
+9. software will yield a fit line equation which then has to be transcribed into microcontroller firmware (we used Arduino Mega)
+
+Now your thermistor will give out the right temperature values.
