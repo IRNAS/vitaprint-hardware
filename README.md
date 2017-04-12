@@ -1,26 +1,6 @@
 # Vitaprint extruder
 
-## Table of contents
- - [overview](#OvER)
- - [Bill of materials](#matbill)
- - [License](#license)
-
-## Overview <a id="overview"></a>
 This repository containst files and descriptions for building a stepper-motor powered syringe extruder, which can be mounted on a general use CNC system. Feel free to fork and comment and if you have any questions, you [contact us](mailto:banovic@irnas.eu) directly. Contained in the repository you will find design files, a bill of materials, assembly instructions and extrusion calibration.
-
-## Bill of materials	<a id="matbill"></a>
- - Stepper motor Nema11 ()
- - Aluminium plates (5mm)
- - Aluminium block ()
- - M3 15mm nuts and bolts
- - Linear sliding rods ()
- - Sliding rods ()
- - Spindle ()
- - 
- - Thermistor ()
- - Ceramic heater ()
- - PID thermoregulation
-
 
 ## License <a id="license"></a>
 
