@@ -6,7 +6,7 @@
  - [License](#license)
 
 ## Overview <a id="overview"></a>
-This repository containst files and descriptions for building a stepper-motor powered syringe extruder, which can be mounted on a general use CNC system. Feel free to fork and comment and if you have any questions, you [contact us](mailto:bostjan@irnas.eu) directly.
+This repository containst files and descriptions for building a stepper-motor powered syringe extruder, which can be mounted on a general use CNC system. Feel free to fork and comment and if you have any questions, you [contact us](mailto:banovic@irnas.eu) directly. Contained in the repository you will find design files, a bill of materials, assembly instructions and extrusion calibration.
 
 ## Bill of materials	<a id="matbill"></a>
  - Stepper motor Nema11 ()
