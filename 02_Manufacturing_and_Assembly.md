@@ -22,11 +22,11 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
  - band saw
  - lathe
  - HAND TOOLS:
-  - torx srewdriver
-  - phillips screwdriver
-  - super glue
-  - two-sided tape
-  - scalpel
+   - torx srewdriver
+   - phillips screwdriver
+   - super glue
+   - two-sided tape
+   - scalpel
  
 ### 1.3 Necessary Steps
  - purchase of raw materials and components
@@ -45,11 +45,8 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
  - assemble each section separately
  - Use philips DIN965 screws wherever you see the hole chamfers, use torx BN6404 screws elsewhere
  - for the following steps gently apply hammer:
-  - sliding the ball bearing into the rod holder
-  - sliding the M5 threaded rod into the coupler
-  - sliding the fi 3 stainless steel rod into the N11 motor plate and rod holder
-
-<img src="https://cloud.githubusercontent.com/assets/14543226/24994423/0bb631c4-202b-11e7-9c50-ee761bc5ef2a.JPG" alt="isometric" width="200" height="250">
+   - sliding the ball bearing into the rod holder
+   - sliding the M5 threaded rod into the coupler
 
 
 
