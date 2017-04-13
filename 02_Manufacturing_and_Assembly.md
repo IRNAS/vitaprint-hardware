@@ -35,11 +35,19 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
  - calibration
  
 ## 2 Part Manufacturing <a id="MANUFACTURING"></a>
- <img src="https://cloud.githubusercontent.com/assets/14543226/24997531/3aaafcba-2037-11e7-8800-1aba4ec7eacb.png" alt="table" width="450" height="400">
+ <img src="https://cloud.githubusercontent.com/assets/14543226/24997531/3aaafcba-2037-11e7-8800-1aba4ec7eacb.png" alt="bubble" width="450" height="400">
 
 <img src="https://cloud.githubusercontent.com/assets/14543226/24997449/fa3d8c7e-2036-11e7-8a56-a97ed070c891.png" alt="table" width="500" height="600">
 
-## 3 Assembly Brief <a id="ASSEMBLY"></a>
+## 3 Assembly Details <a id="ASSEMBLY"></a>
+
+ - manufacture all parts
+ - assemble each section separately
+ - Use philips DIN965 screws wherever you see the hole chamfers, use torx BN6404 screws elsewhere
+ - for the following steps gently apply hammer:
+  - sliding the ball bearing into the rod holder
+  - sliding the M5 threaded rod into the coupler
+  - sliding the fi 3 stainless steel rod into the N11 motor plate and rod holder
 
 <img src="https://cloud.githubusercontent.com/assets/14543226/24994423/0bb631c4-202b-11e7-9c50-ee761bc5ef2a.JPG" alt="isometric" width="200" height="250">
 
