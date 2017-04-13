@@ -35,8 +35,10 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
  - calibration
  
 ## 2 Part Manufacturing <a id="MANUFACTURING"></a>
- - bubble photo
- - manufacturing detail for each part
+ <img src="https://cloud.githubusercontent.com/assets/14543226/24997531/3aaafcba-2037-11e7-8800-1aba4ec7eacb.png" alt="table" width="400" height="400">
+
+<img src="https://cloud.githubusercontent.com/assets/14543226/24997449/fa3d8c7e-2036-11e7-8a56-a97ed070c891.png" alt="table" width="500" height="800">
+
 ## 3 Assembly Brief <a id="ASSEMBLY"></a>
 
 <img src="https://cloud.githubusercontent.com/assets/14543226/24994423/0bb631c4-202b-11e7-9c50-ee761bc5ef2a.JPG" alt="isometric" width="200" height="250">
