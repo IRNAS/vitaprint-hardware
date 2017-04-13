@@ -10,7 +10,7 @@
 ## 1 Overview and Toolset <a id="OVER"></a>
 
 ### 1.1 General Overview
-Manufacturing time: 150min
+Manufacturing time: Xmin
 Assembly time: 30 min
 
 ### 1.2 Tool List and Skills Required
