@@ -47,6 +47,7 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
  - for the following steps gently apply hammer:
    - sliding the ball bearing into the rod holder
    - sliding the M5 threaded rod into the coupler
+   - sliding the fi3 stainless steel rod into rod holder at the bottom and N11 motor plate at the top
 
 
 
