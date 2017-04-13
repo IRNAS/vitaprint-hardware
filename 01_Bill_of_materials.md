@@ -3,9 +3,9 @@
 ## Housing:
  - Aluminium plates (5mm)
  - Aluminium blocks:
-        - SYRINGE MOUNT: block 35mm x 45mm x 70mm (minimum)
-        - FRONT CAP:
-        - 24BYJ48 NUT:
+  - SYRINGE MOUNT: block 35mm x 45mm x 70mm (minimum)
+  - FRONT CAP:
+ - 24BYJ48 NUT:
  - M3x12 DIN965 philips screw
  - 
  - 2 x fi3 stainless steel rod (L = 110mm)
