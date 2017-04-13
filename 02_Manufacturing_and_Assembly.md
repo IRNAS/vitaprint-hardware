@@ -8,19 +8,32 @@
  
 
 ## 1 Overview and Toolset <a id="OVER"></a>
+Here you can find manufacturing and assembly details for one Vitaprint unit. In this repository you can find STEP files for the Vitaprint unit in both orientations - Left and Right. The procedure is the same for both orientations (the final product is only mirrored) therefore you will find details for assembly for one unit in this repository. 
 
-### 1.1 General Overview
-Manufacturing time: Xmin
-Assembly time: 30 min
+### 1.1 General
+- Manufacturing time: X min
+- Assembly time: 30 min
+- Manufacturing skills: high
 
 ### 1.2 Tool List and Skills Required
- - Tools, skills table, manufacturing time, assembly time
+ - 3D printer (ABS)
+ - CNC mill
+ - CNC router
+ - band saw
+ - lathe
+ - HAND TOOLS:
+  - torx srewdriver
+  - phillips screwdriver
+  - super glue
+  - two-sided tape
+  - scalpel
  
 ### 1.3 Necessary Steps
- - purchase of material and components
- Manufacturing and assembly time for 1 Vitaprint unit: 90min
+ - purchase of raw materials and components
+ - manufacturing of parts
+ - assembly
+ - calibration
  
-
 ## 2 Part Manufacturing <a id="MANUFACTURING"></a>
  - bubble photo
  - manufacturing detail for each part
