@@ -4,7 +4,7 @@
  - [Overview](#OVER)
  - [Part Manufacturing](#MANUFACTURING)
  - [Assembly Brief](#ASSEMBLY)
- - [Arduino PID Temperature Regulation](#CODE)
+ - [Arduino Temperature Regulation](#CODE)
  
 
 ## 1 Overview and Toolset <a id="OVER"></a>
@@ -58,7 +58,7 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
 
 
 
-## 4 Arduino: PID Temperature Regulation <a id="CODE"></a>
-Link to the vitaprint_heat_regulator
+## 4 Arduino: Temperature Regulation <a id="CODE"></a>
+To download Arduino firmware for temperature regulation please visit [vitaprint_heat_regulator](https://github.com/symbiolab/Vitaprint_heat_regulator). This is an external temperature control system and can be replaced by any system you may have available.
 
 
