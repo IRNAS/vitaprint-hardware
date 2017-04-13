@@ -1,7 +1,7 @@
 # Manufacturing and Assembly
 
 ## Table of contents
- - [overview](#OVER)
+ - [Overview](#OVER)
  - [Part Manufacturing](#MANUFACTURING)
  - [Assembly Brief](#ASSEMBLY)
  - [Arduino PID Temperature Regulation](#CODE)
@@ -29,4 +29,4 @@ Assembly time: 30 min
 ## 4 Arduino: PID Temperature Regulation <a id="CODE"></a>
 Link to the vitaprint_heat_regulator
 
-![front_view](https://cloud.githubusercontent.com/assets/14543226/24994319/996bb436-202a-11e7-9d85-43ab48c9d2eb.JPG)
+![front_view](https://cloud.githubusercontent.com/assets/14543226/24994319/996bb436-202a-11e7-9d85-43ab48c9d2eb.JPG | width=200 height = 250)
