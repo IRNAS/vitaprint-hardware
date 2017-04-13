@@ -42,7 +42,18 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
 ## 3 Assembly Details <a id="ASSEMBLY"></a>
 
  - manufacture all parts
- - assemble each section separately
+ - assemble each section separately, then join them together
+SECTION A
+<img src="https://cloud.githubusercontent.com/assets/14543226/24998545/c2ab57ce-203a-11e7-9a3c-8f3a5b85e27a.png" alt="sectionB" width= "150" height="200">
+ 
+SECTION B
+<img src="https://cloud.githubusercontent.com/assets/14543226/24998406/4e023a1e-203a-11e7-8f65-00fdcdb5f56f.png" alt="sectionB" width= "150" height="200">
+ 
+SECTION C
+<img src="https://cloud.githubusercontent.com/assets/14543226/24998669/3aab29d4-203b-11e7-93f6-95d102f12aa9.png" alt="sectionB" width= "150" height="200">
+ 
+
+ 
  - Use philips DIN965 screws wherever you see the hole chamfers, use torx BN6404 screws elsewhere
  - for the following steps gently apply hammer:
    - sliding the ball bearing into the rod holder
