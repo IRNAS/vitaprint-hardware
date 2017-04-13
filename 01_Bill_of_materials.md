@@ -4,10 +4,10 @@
  - Aluminium plates (5mm)
  - Aluminium blocks:
    - SYRINGE MOUNT: block 35mm x 45mm x 70mm (minimum)
-   - FRONT CAP:
- - 24BYJ48 NUT:
- - M3x12 DIN965 philips screw
- - 
+   - FRONT CAP: block 40mm x 12mm x 60mm (minimum)
+   - 24BYJ48 NUT: block 15mm x 25mm x 30mm (minimum)
+ - M3x12 DIN965 philips screw 10 pcs
+ - M3x12 BN6404 torx sxrew 20pcs
  - 2 x fi3 stainless steel rod (L = 110mm)
  
  
@@ -23,4 +23,4 @@
  - Thermistor (read how to calibrate your own thermistor in the Calibration section)
  - 40W ceramic heater for 3D printers
  - 24V DC power supply
- - In our iteration we used PID thermoregulation algorithm (parameters need to be tuned by the user, depending on the control setup).
+ - In our iteration we used PID thermoregulation algorithm (parameters need to be tuned by the user, depending on the control setup). Other temperature control systems can also be applied with this given hardware (relay switchin etc.).
