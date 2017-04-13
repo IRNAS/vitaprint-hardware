@@ -1,7 +1,7 @@
 # Bill of materials
 
 ## Housing:
- - Aluminium plates (5mm)
+ - Aluminium plates (300mm x 400mm x 5mm)
  - Aluminium blocks:
    - SYRINGE MOUNT: block 35mm x 45mm x 70mm (minimum)
    - FRONT CAP: block 40mm x 12mm x 60mm (minimum)
@@ -9,6 +9,7 @@
  - M3x12 DIN965 philips screw 10 pcs
  - M3x12 BN6404 torx sxrew 20pcs
  - 2 x fi3 stainless steel rod (L = 110mm)
+ - 40mm x 8mm x 2mm rubber sheet
  
  
 ## Movement
