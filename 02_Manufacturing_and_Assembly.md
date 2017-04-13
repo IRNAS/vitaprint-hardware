@@ -1,10 +1,8 @@
-# Assembly instructions
+# Manufacturing and Assembly
 
 ## Table of contents
  - [overview](#OvER)
- 
- 
- Tools, skills table, manufacturing time, assembly time
+
  
  - [Part list](#LIST)
  bubble photo
@@ -14,3 +12,6 @@
  
  - [arduino code](#CODE)
  Link to the vitaprint_heat_regulator
+
+## 1 Overview <a id="OvER"></a>
+ - Tools, skills table, manufacturing time, assembly time
