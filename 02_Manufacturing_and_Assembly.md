@@ -56,14 +56,15 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
    -- sliding the fi3 stainless steel rod into rod holder at the bottom and N11 motor plate at the top
 
 ### 3.2 Assembly Details
- |DESCRIPTION | STEP 1 | STEP 2 | 
+ | DESCRIPTION | 
  |------|-------|-------|
  |Collect all parts and tools|<img src="https://cloud.githubusercontent.com/assets/14543226/25372744/edc79336-2996-11e7-8249-ebf960823e0e.jpg" alt="tools_parts" width= "150" >|
  | SECTION A |
  |Take Nema11 motor plate and Nema11 stepper motor and fix them together with four torx screws|<img src="https://cloud.githubusercontent.com/assets/14543226/25372981/177bbb2a-2998-11e7-8505-06f3d0da0ced.jpg" alt="step1a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25372926/d43add28-2997-11e7-8887-940e12599bcf.jpg" alt="step1b" width= "150" >|
- |Take the nut and nut plate and fix them together with two philips screws|<img src="https://cloud.githubusercontent.com/assets/14543226/25373052/586397b6-2998-11e7-80ab-f0d0bd8c4928.jpg" alt="step1a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25373068/663aa6c2-2998-11e7-84b6-38fa4631825c.jpg" alt="step1a" width= "150" >|
- |Take the threaded rod and join it with a coupler. The fit is designed to be tight.|<img src="https://cloud.githubusercontent.com/assets/14543226/25373374/b5b481ae-2999-11e7-8280-a12f8cc03a00.jpg" alt="step1a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25373386/c3dd8ed8-2999-11e7-8a1a-d0fb3adfce9e.jpg" alt="step1a" width= "150" >|
- ||||
+ |Take the nut and nut plate and fix them together with two philips screws|<img src="https://cloud.githubusercontent.com/assets/14543226/25373052/586397b6-2998-11e7-80ab-f0d0bd8c4928.jpg" alt="step2a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25373068/663aa6c2-2998-11e7-84b6-38fa4631825c.jpg" alt="step2b" width= "150" >|
+ |Take the threaded rod and join it with a coupler. The fit is designed to be tight.|<img src="https://cloud.githubusercontent.com/assets/14543226/25373374/b5b481ae-2999-11e7-8280-a12f8cc03a00.jpg" alt="step3a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25373386/c3dd8ed8-2999-11e7-8a1a-d0fb3adfce9e.jpg" alt="step3b" width= "150" >|
+ |Screw the rod with a coupler through the nut M5 center thread. Slide the fi3 rods through the holes. |<img src="https://cloud.githubusercontent.com/assets/14543226/25376284/e063de72-29a3-11e7-94f8-825f228a2164.jpg" alt="step4a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25376309/f4293236-29a3-11e7-832d-61b2ab6464e1.jpg" alt="step4b" width= "150" >|
+  |Merge the N11 motor section and the nut-rod section.|<img src="https://cloud.githubusercontent.com/assets/14543226/25376379/37758f6c-29a4-11e7-9715-d70013bed612.jpg" alt="step5a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25376392/4990475a-29a4-11e7-90a8-45d486ae110b.jpg" alt="step5b" width= "150" >|
 
 
 ## 4 Arduino: Temperature Regulation <a id="CODE"></a>
