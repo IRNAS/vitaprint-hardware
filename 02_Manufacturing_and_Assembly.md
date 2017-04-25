@@ -53,14 +53,13 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
 
  - Use philips DIN965 screws wherever you see the hole chamfers, use torx BN6404 screws elsewhere
  - for the following steps gently apply hammer:
-   - sliding the ball bearing into the rod holder
-   - sliding the M5 threaded rod into the coupler
-   - sliding the fi3 stainless steel rod into rod holder at the bottom and N11 motor plate at the top
+   -- sliding the M5 threaded rod into the coupler
+   -- sliding the fi3 stainless steel rod into rod holder at the bottom and N11 motor plate at the top
 
 ### 3.2 Assembly Details
-    |STEP | PHOTO |
-    |------|-------|
-    |Collect all parts and tools|<img src="https://www.dropbox.com/sh/y9rqggxodcu15ix/AAA8zSpMS3V4_AwSmWENSvsla?dl=0&preview=DSC_0185.jpg" alt="sectionB" width= "150" >|
+ |STEP | PHOTO |
+ |------|-------|
+ |Collect all parts and tools|<img src="https://www.dropbox.com/sh/y9rqggxodcu15ix/AAA8zSpMS3V4_AwSmWENSvsla?dl=0&preview=DSC_0185.jpg" alt="sectionB" width= "150" >|
 
 
 ## 4 Arduino: Temperature Regulation <a id="CODE"></a>
