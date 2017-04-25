@@ -34,7 +34,9 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
  - calibration
  
 ## 2 Part Manufacturing <a id="MANUFACTURING"></a>
-Manufacturing is impossible without advanced CNC milling and lathe skills.
+ - Manufacturing is impossible without advanced CNC milling and lathe skills.
+ - The price of raw material depends on the quality/purity of material and contry of purchase. The kit price of manufactured parts would be approximately 250 USD.
+ 
 
  <img src="https://cloud.githubusercontent.com/assets/14543226/24997531/3aaafcba-2037-11e7-8800-1aba4ec7eacb.png" alt="bubble" width="450" height="400">
 
