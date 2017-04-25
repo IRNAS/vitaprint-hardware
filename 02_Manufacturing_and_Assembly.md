@@ -56,8 +56,8 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
    -- sliding the fi3 stainless steel rod into rod holder at the bottom and N11 motor plate at the top
 
 ### 3.2 Assembly Details
- |STEP | PHOTO |
- |------|-------|
+ |DESCRIPTION | STEP 1 | STEP 2 | 
+ |------|-------|-------|
  |Collect all parts and tools|<img src="https://cloud.githubusercontent.com/assets/14543226/25372744/edc79336-2996-11e7-8249-ebf960823e0e.jpg" alt="tools_parts" width= "150" >|
  | SECTION A |
  |Take Nema11 motor plate and Nema11 stepper motor and fix them together with four torx screws|<img src="https://cloud.githubusercontent.com/assets/14543226/25372981/177bbb2a-2998-11e7-8505-06f3d0da0ced.jpg" alt="step1a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25372926/d43add28-2997-11e7-8887-940e12599bcf.jpg" alt="step1b" width= "150" >|
