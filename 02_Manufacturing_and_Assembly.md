@@ -44,18 +44,11 @@ Manufacturing is impossible without advanced CNC milling and lathe skills.
 
 ### 3.1 Assembly Overview
  - manufacture all parts
- - assemble each section separately, then join them together
- 
- | SECTION A | SECTION B | SECTION C |
- |-----------|-----------|-----------|
- |<img src="https://cloud.githubusercontent.com/assets/14543226/24998545/c2ab57ce-203a-11e7-9a3c-8f3a5b85e27a.png" alt="sectionB" width= "150" > | <img src="https://cloud.githubusercontent.com/assets/14543226/24998406/4e023a1e-203a-11e7-8f65-00fdcdb5f56f.png" alt="sectionB" width= "150" > |<img src="https://cloud.githubusercontent.com/assets/14543226/24998669/3aab29d4-203b-11e7-93f6-95d102f12aa9.png" alt="sectionB" width= "150">|
- 
-
-
+ - assembly details walk you through assembly of each section separately, then joining them together
  - Use philips DIN965 screws wherever you see the hole chamfers, use torx BN6404 screws elsewhere
  - for the following steps gently apply hammer:
-   -- sliding the M5 threaded rod into the coupler
-   -- sliding the fi3 stainless steel rod into rod holder at the bottom and N11 motor plate at the top
+   - sliding the M5 threaded rod into the coupler
+   - sliding the fi3 stainless steel rod into rod holder at the bottom and N11 motor plate at the top
 
 ### 3.2 Assembly Details
  | DESCRIPTION | STEP 1 | STEP 2 | 
