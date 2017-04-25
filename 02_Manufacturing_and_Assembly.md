@@ -25,8 +25,7 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
    - torx srewdriver
    - phillips screwdriver
    - super glue
-   - two-sided tape
-   - scalpel
+   - allan key
  
 ### 1.3 Necessary Steps
  - purchase of raw materials and components
@@ -59,10 +58,17 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
 ### 3.2 Assembly Details
  |STEP | PHOTO |
  |------|-------|
- |Collect all parts and tools|<img src="https://www.dropbox.com/sh/y9rqggxodcu15ix/AAA8zSpMS3V4_AwSmWENSvsla?dl=0&preview=DSC_0185.jpg" alt="sectionB" width= "150" >|
+ |Collect all parts and tools|<img src="https://cloud.githubusercontent.com/assets/14543226/25372744/edc79336-2996-11e7-8249-ebf960823e0e.jpg" alt="tools_parts" width= "150" >|
+ | SECTION A |
+ |Take Nema11 motor plate and Nema11 stepper motor and fix them together with four torx screws|<img src="https://cloud.githubusercontent.com/assets/14543226/25372981/177bbb2a-2998-11e7-8505-06f3d0da0ced.jpg" alt="step1a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25372926/d43add28-2997-11e7-8887-940e12599bcf.jpg" alt="step1b" width= "150" >|
+ |Take the nut and nut plate and fix them together with two philips screws|<img src="https://cloud.githubusercontent.com/assets/14543226/25373052/586397b6-2998-11e7-80ab-f0d0bd8c4928.jpg" alt="step1a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25373068/663aa6c2-2998-11e7-84b6-38fa4631825c.jpg" alt="step1a" width= "150" >|
+ |Take the threaded rod and join it with a coupler. The fit is designed to be tight.|<img src="https://cloud.githubusercontent.com/assets/14543226/25373374/b5b481ae-2999-11e7-8280-a12f8cc03a00.jpg" alt="step1a" width= "150" >|<img src="https://cloud.githubusercontent.com/assets/14543226/25373386/c3dd8ed8-2999-11e7-8a1a-d0fb3adfce9e.jpg" alt="step1a" width= "150" >|
+ ||||
 
 
 ## 4 Arduino: Temperature Regulation <a id="CODE"></a>
+
+
 To download Arduino firmware for temperature regulation please visit [vitaprint_heat_regulator](https://github.com/symbiolab/Vitaprint_heat_regulator). This is an external temperature control system and can be replaced by any system you may have available.
 
 
