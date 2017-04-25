@@ -11,7 +11,7 @@
 Here you can find manufacturing and assembly details for one Vitaprint unit. In this repository you can find STEP files for the Vitaprint unit in both orientations - Left and Right. The procedure is the same for both orientations (the final product is only mirrored) therefore you will find details for assembly for one unit in this repository. 
 
 ### 1.1 General
-- Manufacturing time: X min
+- Manufacturing time: 7h
 - Assembly time: 30 min
 - Manufacturing skills: high
 
@@ -34,6 +34,8 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
  - calibration
  
 ## 2 Part Manufacturing <a id="MANUFACTURING"></a>
+Manufacturing is impossible without advanced CNC milling and lathe skills.
+
  <img src="https://cloud.githubusercontent.com/assets/14543226/24997531/3aaafcba-2037-11e7-8800-1aba4ec7eacb.png" alt="bubble" width="450" height="400">
 
 <img src="https://cloud.githubusercontent.com/assets/14543226/24997449/fa3d8c7e-2036-11e7-8a56-a97ed070c891.png" alt="table" width="500" height="600">
