@@ -56,7 +56,7 @@ Here you can find manufacturing and assembly details for one Vitaprint unit. In 
    -- sliding the fi3 stainless steel rod into rod holder at the bottom and N11 motor plate at the top
 
 ### 3.2 Assembly Details
- | DESCRIPTION | 
+ | DESCRIPTION | STEP 1 | STEP 2 | 
  |------|-------|-------|
  |Collect all parts and tools|<img src="https://cloud.githubusercontent.com/assets/14543226/25372744/edc79336-2996-11e7-8249-ebf960823e0e.jpg" alt="tools_parts" width= "150" >|
  | SECTION A |
