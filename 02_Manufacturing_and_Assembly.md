@@ -79,7 +79,8 @@ Manufacturing is impossible without advanced CNC milling and lathe skills.
   
   
   Use superglue to stop rods sliding up and down when the nut is moved.
-  <img src="https://cloud.githubusercontent.com/assets/14543226/25383901/582cbedc-29be-11e7-8e2a-4f74fa7580dc.jpg" alt="step16" width= "200" >
+  
+    <img src="https://cloud.githubusercontent.com/assets/14543226/25383901/582cbedc-29be-11e7-8e2a-4f74fa7580dc.jpg" alt="step16" width= "200" >
   
 
 
