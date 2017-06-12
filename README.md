@@ -18,3 +18,5 @@ What this means is that you can use hardware, firmware, software and documentati
 
 Symbiolab, Koruza, GoodEnoughCNC and IRNAS are all names and marks of Institut IRNAS Rače.
 You may use these names and terms only to attribute the appropriate entity as required by the Open Licences referred to above. You may not use them in any other way and in particular you may not use them to imply endorsement or authorization of any hardware that you design, make or sell.
+
+[![DOI](https://zenodo.org/badge/88018078.svg)](https://zenodo.org/badge/latestdoi/88018078)
