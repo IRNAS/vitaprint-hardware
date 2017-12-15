@@ -32,5 +32,5 @@
 
 ## Printing:
 - Printing volume (x,y,z): 200 x 300 x 45mm
-- Printing speed: 2600mm/min, typical 500mm/min
+- Printing speed: max 2600mm/min, typical 500mm/min
 - Print File Type: G-code (generate externally via slicer software, not included)
