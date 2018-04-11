@@ -5,22 +5,24 @@
 - Default working area:
   -- Height: 50mm
   -- Width: 400mm
-  --Depth: 550mm
+  -- Depth: 550mm
 - Motors (xyz):  NEMA23
 - Movement resolution: 0.01mm (theoretically achievable 0.001mm)
 - Positioning accuracy: 0.05mm
 - Maximal number of extruders: 3
 
+NOTE: The values above are for a default setup. Extrudes can be mounted on any 3-axis CNC platform, therefore the working area and maximal number of extruders can be changed if needed.
+
 ## Vitaprint extruder:
 - Axis: 2
 - Motion: Extruder Z movement and E extrusion
 - Z motor: NEMA 11
+- E motor: NEMA 11 with planetary gearbox
 - Z movement resolution: 0.01mm (theoretically achievable 0.001mm)
 - Z positioning accuracy: 0.05mm
 - Cartridge: 5ml luer-lock syringes (polypropylene)
-- Nozzle: Gaugle needle
+- Nozzle: Gauge needle
 - Heating: room temperature - 250°C
-- Extrusion motor: NEMA 11 with planetary reductor
 - Extrusion resolution: 0.01mm piston movement (1.2uL for 5ml syringe)
 
 ## Control electronics:
