@@ -2,7 +2,7 @@
 
 ## CNC XYZ mechanics: 3020T
 - Axis: 3
-- Height: 400mm
+- Height: 50mm
 - Width: 400mm
 - Depth: 550mm
 - Motors (xyz):  NEMA23
