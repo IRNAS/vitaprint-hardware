@@ -2,9 +2,10 @@
 
 ## CNC XYZ mechanics: 3020T
 - Axis: 3
-- Height: 50mm
-- Width: 400mm
-- Depth: 550mm
+- Default working area:
+  -- Height: 50mm
+  -- Width: 400mm
+  --Depth: 550mm
 - Motors (xyz):  NEMA23
 - Movement resolution: 0.01mm (theoretically achievable 0.001mm)
 - Positioning accuracy: 0.05mm
