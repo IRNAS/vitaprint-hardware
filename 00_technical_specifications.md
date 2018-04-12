@@ -1,14 +1,13 @@
 # Vitaprint hardware technical specifications
 
 ## CNC XYZ mechanics: 3020T
-- Axis: 3
-- Default working area:
-  -- Height: 50mm
-  -- Width: 400mm
-  -- Depth: 550mm
-- Motors (xyz):  NEMA23
+- Machine size:
+  -- Width: 410mm (X)
+  -- Depth: 540mm (Y)
+  -- Height: 400mm (Z)
+- Motors (x, y, z):  NEMA23
 - Movement resolution: 0.01mm (theoretically achievable 0.001mm)
-- Positioning accuracy: 0.05mm
+- Motion drive: trapeziodal lead screw, linear rods with ball bearings
 - Maximal number of extruders: 3
 
 NOTE: The values above are for a default setup. Extrudes can be mounted on any 3-axis CNC platform, therefore the working area and maximal number of extruders can be changed if needed.
@@ -19,7 +18,6 @@ NOTE: The values above are for a default setup. Extrudes can be mounted on any 3
 - Z motor: NEMA 11
 - E motor: NEMA 11 with planetary gearbox
 - Z movement resolution: 0.01mm (theoretically achievable 0.001mm)
-- Z positioning accuracy: 0.05mm
 - Cartridge: 5ml luer-lock syringes (polypropylene)
 - Nozzle: Gauge needle
 - Heating: room temperature - 250°C
@@ -36,4 +34,6 @@ NOTE: The values above are for a default setup. Extrudes can be mounted on any 3
 ## Printing:
 - Printing volume (x,y,z): 200 x 300 x 45mm
 - Printing speed: max 2600mm/min, typical 500mm/min
-- Print File Type: G-code (generate externally via slicer software, not included)
+- Print File Type: G-code (generate externally via Slic3r software)
+
+NOTE: printing volume will depend on the amount of extruders used.
